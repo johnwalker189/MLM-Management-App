@@ -133,7 +133,6 @@ class ChangeFrame(tk.Frame):
             height=84.0
         )
 
-
         self.entry_image_1 = PhotoImage(
             file=relative_to_assets("entry_1.png"))
         self.entry_bg_1 = self.canvas.create_image(

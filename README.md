@@ -51,4 +51,4 @@ If you want to make contrributes to the MLM Management App, considering followin
 
 Thanks for visiting this repository, people! Honestly, I think I still have a **very** long way to go in terms of coding. If you wish to contact me for a deeper chat, my discord ID is @johnwalker189. 
 
-I hope I can come back with a new project soon xD.
+I hope I can come back with a new project soon enough, ehe.

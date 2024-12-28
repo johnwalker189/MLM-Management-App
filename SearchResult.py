@@ -29,7 +29,7 @@ import cloudinary.api
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = ASSETS_PATH = OUTPUT_PATH / "assets" / "frame6"
 
-config.CLOUDINARY_FOLDER = os.getenv("CLOUDINARY_FOLDER", "https://res.cloudinary.com/dxb5plez8/image/upload/v1731812075/ProfilePic/")
+config.CLOUDINARY_FOLDER = os.getenv("CLOUDINARY_FOLDER")
 
 def format_date(date):
     # Chuyển đổi ngày tháng từ yyyy-mm-ddThh:mm:ss thành dd/mm/yyyy

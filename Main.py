@@ -11,7 +11,9 @@ import tkinter as tk
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 from DeleteDistributor import DeleteFrame
 from Home import HomeFrame
-from DeleteDistributor import DeleteFrame
+from DistributorSearch import SearchFrame
+from SearchResult import ResultFrame
+from ComissionCalculator import CalculatorFrame
 
 class App(tk.Tk):
     def __init__(self):
@@ -25,6 +27,7 @@ class App(tk.Tk):
         
         self.delete_frame = ""
         self.commision_frame = ""
+        self.result_frame = ""
 
 window=App()
 window.resizable(False, False)

@@ -208,6 +208,7 @@ class DeleteFrame(tk.Frame):
                 supabase.table("Parent_Child").delete().eq("KidID", self.entry_1.get()).execute()
                 cloudinary.uploader.destroy("ProfilePic/" + self.entry_1.get())
                 messagebox.showinfo("Delete", "Delete successfully!")
+                return
             except Exception as e:
                 messagebox.showwarning("Warning", "An unexpected error occured:\n\n" + str(e) + '\n\n' 
                                 + "Something has gone wrong while we delete the Distributor with the given ID.")

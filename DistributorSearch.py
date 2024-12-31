@@ -152,11 +152,33 @@ class SearchFrame(tk.Frame):
         print("search pressed")
         messagebox.showinfo("Search", "Searching for distributor...\n\nThis process might take a while.")
         
-        #Check if the entry is empty
         if self.entry_1.get() == "":
-            messagebox.showerror("Error", "Please enter something to search!")
+            config.SEARCH_RESULT = supabase.table("Distributor").select("*").execute()
+            self.canvas.place_forget()
+            self.button_1.place_forget()
+            self.button_2.place_forget()
+            self.button_3.place_forget()
+            self.entry_1.place_forget()
+            try:
+                from SearchResult import ResultFrame
+            except ImportError as e:
+                messagebox.showerror("Error", f"Cannot import ResultFrame: {e}")
+                return
+            except Exception as e:
+                messagebox.showerror("Error", f"Unexpected error: {e}")
+                return
+            self.master.result_frame = ResultFrame(self.master)
+            self.master.result_frame.place(x=0, y=0)
             return
-        
+        #Check if the entry is empty
+        # if self.entry_1.get() == "":
+        #     try:
+        #         config.SEARCH_RESULT = supabase.table("Distributor").select("*").like("Name", "%" + self.entry_1.get() + "%").execute()
+        #         if (len(config.SEARCH_RESULT.data) == 0):
+        #             raise Exception
+        #     except Exception as e:
+        #         messagebox.showerror("Error", "Distributor not found.\n\n Please enter a valid distributor name!")
+ 
         #Check if the entry has a distributor ID
         if re.match(r"^VN-\d{6}$", self.entry_1.get()):
             try:

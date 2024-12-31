@@ -283,13 +283,13 @@ class AddFrame(tk.Frame):
             return
         self.pattern = r"^VN-\d{6}$"
         if (re.match(self.pattern, self.entry_3.get())==None):
-            messagebox.showwarning("Warning", "Invalid distributor ID!")
+            messagebox.showwarning("Warning", "Invalid distributor ID! \nID must be in the format of VN-XXXXXX.")
             return
         if (re.match(self.pattern, self.entry_1.get())==None):
             if (self.entry_1.get() == "0"):
                 pass
             else:
-                messagebox.showwarning("Warning", "Invalid referral ID!")
+                messagebox.showwarning("Warning", "Invalid referral ID! \nID must be in the format of VN-XXXXXX.")
                 return
         
         #Check if the ID is already in the database
@@ -303,6 +303,7 @@ class AddFrame(tk.Frame):
         if (len(self.referral.data) == 0):
             if (self.entry_1.get() != "0"):
                 messagebox.showwarning("Warning", "Referral ID does not exist!")
+                return
             else:
                 pass
         

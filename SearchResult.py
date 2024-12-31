@@ -15,6 +15,7 @@ from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 import tkinter as tk
 import os
+import sys
 import re
 import queue
 import requests 
@@ -30,6 +31,7 @@ OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = ASSETS_PATH = OUTPUT_PATH / "assets" / "frame6"
 
 config.CLOUDINARY_FOLDER = os.getenv("CLOUDINARY_FOLDER")
+#sys.stdout.reconfigure(encoding='utf-8')
 
 def format_date(date):
     # Chuyển đổi ngày tháng từ yyyy-mm-ddThh:mm:ss thành dd/mm/yyyy
@@ -59,7 +61,7 @@ def relative_to_assets(path: str) -> Path:
 
 class ResultFrame(tk.Frame):
     def __init__ (self, master): 
-        print(config.SEARCH_RESULT)
+        #print(config.SEARCH_RESULT)
         
         #Some basic settings
         self.master = master

@@ -1,324 +1,331 @@
-('D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\build\\Main\\PYZ-00.pyz',
+('D:\\HUST\\20241\\IT3150 - Project '
+ '1\\Repo\\MLM-Management-App\\build\\Main\\PYZ-00.pyz',
  [('AddDistributor',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\AddDistributor.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\AddDistributor.py',
    'PYMODULE'),
   ('ChangeProfile',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\ChangeProfile.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\ChangeProfile.py',
    'PYMODULE'),
   ('ComissionCalculator',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\ComissionCalculator.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\ComissionCalculator.py',
    'PYMODULE'),
   ('DeleteDistributor',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\DeleteDistributor.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\DeleteDistributor.py',
    'PYMODULE'),
   ('DistributorSearch',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\DistributorSearch.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\DistributorSearch.py',
    'PYMODULE'),
   ('Home',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\Home.py',
+   'D:\\HUST\\20241\\IT3150 - Project 1\\Repo\\MLM-Management-App\\Home.py',
    'PYMODULE'),
   ('PIL',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
   ('PIL.BlpImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
    'PYMODULE'),
   ('PIL.BmpImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
    'PYMODULE'),
   ('PIL.BufrStubImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
    'PYMODULE'),
   ('PIL.CurImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\CurImagePlugin.py',
    'PYMODULE'),
   ('PIL.DcxImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
    'PYMODULE'),
   ('PIL.DdsImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
    'PYMODULE'),
   ('PIL.EpsImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
    'PYMODULE'),
   ('PIL.ExifTags',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ExifTags.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ExifTags.py',
    'PYMODULE'),
   ('PIL.FitsImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
    'PYMODULE'),
   ('PIL.FliImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\FliImagePlugin.py',
    'PYMODULE'),
   ('PIL.FpxImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
    'PYMODULE'),
   ('PIL.FtexImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
    'PYMODULE'),
   ('PIL.GbrImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
    'PYMODULE'),
   ('PIL.GifImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\GifImagePlugin.py',
    'PYMODULE'),
   ('PIL.GimpGradientFile',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\GimpGradientFile.py',
    'PYMODULE'),
   ('PIL.GimpPaletteFile',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
    'PYMODULE'),
   ('PIL.GribStubImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
    'PYMODULE'),
   ('PIL.Hdf5StubImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
    'PYMODULE'),
   ('PIL.IcnsImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
    'PYMODULE'),
   ('PIL.IcoImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
    'PYMODULE'),
   ('PIL.ImImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImImagePlugin.py',
    'PYMODULE'),
   ('PIL.Image',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\Image.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\Image.py',
    'PYMODULE'),
   ('PIL.ImageChops',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageChops.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageChops.py',
    'PYMODULE'),
   ('PIL.ImageCms',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageCms.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageCms.py',
    'PYMODULE'),
   ('PIL.ImageColor',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageColor.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageColor.py',
    'PYMODULE'),
   ('PIL.ImageFile',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageFile.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageFile.py',
    'PYMODULE'),
   ('PIL.ImageFilter',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageFilter.py',
    'PYMODULE'),
   ('PIL.ImageMath',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageMath.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageMath.py',
    'PYMODULE'),
   ('PIL.ImageMode',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageMode.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageMode.py',
    'PYMODULE'),
   ('PIL.ImageOps',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageOps.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageOps.py',
    'PYMODULE'),
   ('PIL.ImagePalette',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImagePalette.py',
    'PYMODULE'),
   ('PIL.ImageQt',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageQt.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageQt.py',
    'PYMODULE'),
   ('PIL.ImageSequence',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageSequence.py',
    'PYMODULE'),
   ('PIL.ImageShow',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageShow.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageShow.py',
    'PYMODULE'),
   ('PIL.ImageTk',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageTk.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageTk.py',
    'PYMODULE'),
   ('PIL.ImageWin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImageWin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImageWin.py',
    'PYMODULE'),
   ('PIL.ImtImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
    'PYMODULE'),
   ('PIL.IptcImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
    'PYMODULE'),
   ('PIL.Jpeg2KImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
    'PYMODULE'),
   ('PIL.JpegImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
    'PYMODULE'),
   ('PIL.JpegPresets',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\JpegPresets.py',
    'PYMODULE'),
   ('PIL.McIdasImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
    'PYMODULE'),
   ('PIL.MicImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\MicImagePlugin.py',
    'PYMODULE'),
   ('PIL.MpegImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
    'PYMODULE'),
   ('PIL.MpoImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
    'PYMODULE'),
   ('PIL.MspImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\MspImagePlugin.py',
    'PYMODULE'),
   ('PIL.PaletteFile',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PaletteFile.py',
    'PYMODULE'),
   ('PIL.PalmImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
    'PYMODULE'),
   ('PIL.PcdImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
    'PYMODULE'),
   ('PIL.PcxImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
    'PYMODULE'),
   ('PIL.PdfImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
    'PYMODULE'),
   ('PIL.PdfParser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PdfParser.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PdfParser.py',
    'PYMODULE'),
   ('PIL.PixarImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
    'PYMODULE'),
   ('PIL.PngImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PngImagePlugin.py',
    'PYMODULE'),
   ('PIL.PpmImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
    'PYMODULE'),
   ('PIL.PsdImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
    'PYMODULE'),
   ('PIL.QoiImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\QoiImagePlugin.py',
    'PYMODULE'),
   ('PIL.SgiImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
    'PYMODULE'),
   ('PIL.SpiderImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
    'PYMODULE'),
   ('PIL.SunImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\SunImagePlugin.py',
    'PYMODULE'),
   ('PIL.TgaImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
    'PYMODULE'),
   ('PIL.TiffTags',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\TiffTags.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\TiffTags.py',
    'PYMODULE'),
   ('PIL.WebPImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
    'PYMODULE'),
   ('PIL.WmfImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
    'PYMODULE'),
   ('PIL.XVThumbImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
    'PYMODULE'),
   ('PIL.XbmImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
    'PYMODULE'),
   ('PIL.XpmImagePlugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
    'PYMODULE'),
   ('PIL._binary',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\_binary.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\_binary.py',
    'PYMODULE'),
   ('PIL._deprecate',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\_deprecate.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\_deprecate.py',
    'PYMODULE'),
   ('PIL._typing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\_typing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\_typing.py',
    'PYMODULE'),
   ('PIL._util',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\_util.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\_util.py',
    'PYMODULE'),
   ('PIL._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\_version.py',
    'PYMODULE'),
   ('PIL.features',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\PIL\\features.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\PIL\\features.py',
    'PYMODULE'),
   ('SearchResult',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\SearchResult.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\SearchResult.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
@@ -351,136 +358,136 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_threading_local.py',
    'PYMODULE'),
   ('annotated_types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\annotated_types\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\annotated_types\\__init__.py',
    'PYMODULE'),
   ('anyio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\__init__.py',
    'PYMODULE'),
   ('anyio._backends',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_backends\\__init__.py',
    'PYMODULE'),
   ('anyio._backends._asyncio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_backends\\_asyncio.py',
    'PYMODULE'),
   ('anyio._backends._trio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_backends\\_trio.py',
    'PYMODULE'),
   ('anyio._core',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\__init__.py',
    'PYMODULE'),
   ('anyio._core._eventloop',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_eventloop.py',
    'PYMODULE'),
   ('anyio._core._exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_exceptions.py',
    'PYMODULE'),
   ('anyio._core._fileio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_fileio.py',
    'PYMODULE'),
   ('anyio._core._resources',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_resources.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_resources.py',
    'PYMODULE'),
   ('anyio._core._signals',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_signals.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_signals.py',
    'PYMODULE'),
   ('anyio._core._sockets',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_sockets.py',
    'PYMODULE'),
   ('anyio._core._streams',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_streams.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_streams.py',
    'PYMODULE'),
   ('anyio._core._subprocesses',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_subprocesses.py',
    'PYMODULE'),
   ('anyio._core._synchronization',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_synchronization.py',
    'PYMODULE'),
   ('anyio._core._tasks',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_tasks.py',
    'PYMODULE'),
   ('anyio._core._testing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_testing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_testing.py',
    'PYMODULE'),
   ('anyio._core._typedattr',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\_core\\_typedattr.py',
    'PYMODULE'),
   ('anyio.abc',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\__init__.py',
    'PYMODULE'),
   ('anyio.abc._eventloop',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_eventloop.py',
    'PYMODULE'),
   ('anyio.abc._resources',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_resources.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_resources.py',
    'PYMODULE'),
   ('anyio.abc._sockets',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_sockets.py',
    'PYMODULE'),
   ('anyio.abc._streams',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_streams.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_streams.py',
    'PYMODULE'),
   ('anyio.abc._subprocesses',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_subprocesses.py',
    'PYMODULE'),
   ('anyio.abc._tasks',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_tasks.py',
    'PYMODULE'),
   ('anyio.abc._testing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\abc\\_testing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\abc\\_testing.py',
    'PYMODULE'),
   ('anyio.from_thread',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\from_thread.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\from_thread.py',
    'PYMODULE'),
   ('anyio.lowlevel',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\lowlevel.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\lowlevel.py',
    'PYMODULE'),
   ('anyio.streams',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\streams\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\streams\\__init__.py',
    'PYMODULE'),
   ('anyio.streams.memory',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\streams\\memory.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\streams\\memory.py',
    'PYMODULE'),
   ('anyio.streams.stapled',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\streams\\stapled.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\streams\\stapled.py',
    'PYMODULE'),
   ('anyio.streams.tls',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\streams\\tls.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\streams\\tls.py',
    'PYMODULE'),
   ('anyio.to_thread',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\anyio\\to_thread.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\anyio\\to_thread.py',
    'PYMODULE'),
   ('argparse',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\argparse.py',
@@ -594,116 +601,116 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\calendar.py',
    'PYMODULE'),
   ('certifi',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\certifi\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\certifi\\__init__.py',
    'PYMODULE'),
   ('certifi.core',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\certifi\\core.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\certifi\\core.py',
    'PYMODULE'),
   ('charset_normalizer',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\__init__.py',
    'PYMODULE'),
   ('charset_normalizer.api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\api.py',
    'PYMODULE'),
   ('charset_normalizer.cd',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\cd.py',
    'PYMODULE'),
   ('charset_normalizer.constant',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\constant.py',
    'PYMODULE'),
   ('charset_normalizer.legacy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\legacy.py',
    'PYMODULE'),
   ('charset_normalizer.models',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\models.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\models.py',
    'PYMODULE'),
   ('charset_normalizer.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\utils.py',
    'PYMODULE'),
   ('charset_normalizer.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\charset_normalizer\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\charset_normalizer\\version.py',
    'PYMODULE'),
   ('cloudinary',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\__init__.py',
    'PYMODULE'),
   ('cloudinary.api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\api.py',
    'PYMODULE'),
   ('cloudinary.api_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\api_client\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\api_client\\__init__.py',
    'PYMODULE'),
   ('cloudinary.api_client.call_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\api_client\\call_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\api_client\\call_api.py',
    'PYMODULE'),
   ('cloudinary.api_client.execute_request',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\api_client\\execute_request.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\api_client\\execute_request.py',
    'PYMODULE'),
   ('cloudinary.api_client.tcp_keep_alive_manager',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\api_client\\tcp_keep_alive_manager.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\api_client\\tcp_keep_alive_manager.py',
    'PYMODULE'),
   ('cloudinary.auth_token',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\auth_token.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\auth_token.py',
    'PYMODULE'),
   ('cloudinary.cache',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\cache\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\cache\\__init__.py',
    'PYMODULE'),
   ('cloudinary.cache.adapter',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\cache\\adapter\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\cache\\adapter\\__init__.py',
    'PYMODULE'),
   ('cloudinary.cache.adapter.cache_adapter',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\cache\\adapter\\cache_adapter.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\cache\\adapter\\cache_adapter.py',
    'PYMODULE'),
   ('cloudinary.cache.responsive_breakpoints_cache',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\cache\\responsive_breakpoints_cache.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\cache\\responsive_breakpoints_cache.py',
    'PYMODULE'),
   ('cloudinary.compat',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\compat.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\compat.py',
    'PYMODULE'),
   ('cloudinary.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\exceptions.py',
    'PYMODULE'),
   ('cloudinary.http_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\http_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\http_client.py',
    'PYMODULE'),
   ('cloudinary.search',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\search.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\search.py',
    'PYMODULE'),
   ('cloudinary.search_folders',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\search_folders.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\search_folders.py',
    'PYMODULE'),
   ('cloudinary.uploader',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\uploader.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\uploader.py',
    'PYMODULE'),
   ('cloudinary.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\cloudinary\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\cloudinary\\utils.py',
    'PYMODULE'),
   ('cmd',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\cmd.py',
@@ -733,7 +740,7 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('config',
-   'D:\\HUST\\20241\\IT3150 - Project 1\\Final MLM App\\config.py',
+   'D:\\HUST\\20241\\IT3150 - Project 1\\Repo\\MLM-Management-App\\config.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextlib.py',
@@ -763,71 +770,71 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py',
    'PYMODULE'),
   ('dateutil',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\__init__.py',
    'PYMODULE'),
   ('dateutil._common',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\_common.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\_common.py',
    'PYMODULE'),
   ('dateutil._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\_version.py',
    'PYMODULE'),
   ('dateutil.easter',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\easter.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\easter.py',
    'PYMODULE'),
   ('dateutil.parser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\parser\\__init__.py',
    'PYMODULE'),
   ('dateutil.parser._parser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\parser\\_parser.py',
    'PYMODULE'),
   ('dateutil.parser.isoparser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
    'PYMODULE'),
   ('dateutil.relativedelta',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\relativedelta.py',
    'PYMODULE'),
   ('dateutil.rrule',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\rrule.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\rrule.py',
    'PYMODULE'),
   ('dateutil.tz',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\tz\\__init__.py',
    'PYMODULE'),
   ('dateutil.tz._common',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\tz\\_common.py',
    'PYMODULE'),
   ('dateutil.tz._factories',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\tz\\_factories.py',
    'PYMODULE'),
   ('dateutil.tz.tz',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\tz\\tz.py',
    'PYMODULE'),
   ('dateutil.tz.win',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\tz\\win.py',
    'PYMODULE'),
   ('dateutil.zoneinfo',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
    'PYMODULE'),
   ('decimal',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\decimal.py',
    'PYMODULE'),
   ('deprecation',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\deprecation.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\deprecation.py',
    'PYMODULE'),
   ('dis',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dis.py',
@@ -869,24 +876,24 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\distutils\\util.py',
    'PYMODULE'),
   ('dotenv',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dotenv\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dotenv\\__init__.py',
    'PYMODULE'),
   ('dotenv.ipython',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dotenv\\ipython.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dotenv\\ipython.py',
    'PYMODULE'),
   ('dotenv.main',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dotenv\\main.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dotenv\\main.py',
    'PYMODULE'),
   ('dotenv.parser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dotenv\\parser.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dotenv\\parser.py',
    'PYMODULE'),
   ('dotenv.variables',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\dotenv\\variables.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\dotenv\\variables.py',
    'PYMODULE'),
   ('email',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\__init__.py',
@@ -949,28 +956,28 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\utils.py',
    'PYMODULE'),
   ('exceptiongroup',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\__init__.py',
    'PYMODULE'),
   ('exceptiongroup._catch',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\_catch.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\_catch.py',
    'PYMODULE'),
   ('exceptiongroup._exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\_exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\_exceptions.py',
    'PYMODULE'),
   ('exceptiongroup._formatting',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\_formatting.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\_formatting.py',
    'PYMODULE'),
   ('exceptiongroup._suppress',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\_suppress.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\_suppress.py',
    'PYMODULE'),
   ('exceptiongroup._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\exceptiongroup\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\exceptiongroup\\_version.py',
    'PYMODULE'),
   ('fnmatch',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fnmatch.py',
@@ -994,183 +1001,183 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\glob.py',
    'PYMODULE'),
   ('gotrue',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\__init__.py',
    'PYMODULE'),
   ('gotrue._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\__init__.py',
    'PYMODULE'),
   ('gotrue._async.gotrue_admin_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_admin_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_admin_api.py',
    'PYMODULE'),
   ('gotrue._async.gotrue_admin_mfa_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_admin_mfa_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_admin_mfa_api.py',
    'PYMODULE'),
   ('gotrue._async.gotrue_base_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_base_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_base_api.py',
    'PYMODULE'),
   ('gotrue._async.gotrue_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_client.py',
    'PYMODULE'),
   ('gotrue._async.gotrue_mfa_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_mfa_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\gotrue_mfa_api.py',
    'PYMODULE'),
   ('gotrue._async.storage',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_async\\storage.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_async\\storage.py',
    'PYMODULE'),
   ('gotrue._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\__init__.py',
    'PYMODULE'),
   ('gotrue._sync.gotrue_admin_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_admin_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_admin_api.py',
    'PYMODULE'),
   ('gotrue._sync.gotrue_admin_mfa_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_admin_mfa_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_admin_mfa_api.py',
    'PYMODULE'),
   ('gotrue._sync.gotrue_base_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_base_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_base_api.py',
    'PYMODULE'),
   ('gotrue._sync.gotrue_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_client.py',
    'PYMODULE'),
   ('gotrue._sync.gotrue_mfa_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_mfa_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\gotrue_mfa_api.py',
    'PYMODULE'),
   ('gotrue._sync.storage',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\_sync\\storage.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\_sync\\storage.py',
    'PYMODULE'),
   ('gotrue.constants',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\constants.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\constants.py',
    'PYMODULE'),
   ('gotrue.errors',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\errors.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\errors.py',
    'PYMODULE'),
   ('gotrue.helpers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\helpers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\helpers.py',
    'PYMODULE'),
   ('gotrue.http_clients',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\http_clients.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\http_clients.py',
    'PYMODULE'),
   ('gotrue.timer',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\timer.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\timer.py',
    'PYMODULE'),
   ('gotrue.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\types.py',
    'PYMODULE'),
   ('gotrue.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\gotrue\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\gotrue\\version.py',
    'PYMODULE'),
   ('gzip',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gzip.py',
    'PYMODULE'),
   ('h11',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\__init__.py',
    'PYMODULE'),
   ('h11._abnf',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_abnf.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_abnf.py',
    'PYMODULE'),
   ('h11._connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_connection.py',
    'PYMODULE'),
   ('h11._events',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_events.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_events.py',
    'PYMODULE'),
   ('h11._headers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_headers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_headers.py',
    'PYMODULE'),
   ('h11._readers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_readers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_readers.py',
    'PYMODULE'),
   ('h11._receivebuffer',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_receivebuffer.py',
    'PYMODULE'),
   ('h11._state',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_state.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_state.py',
    'PYMODULE'),
   ('h11._util',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_util.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_util.py',
    'PYMODULE'),
   ('h11._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_version.py',
    'PYMODULE'),
   ('h11._writers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h11\\_writers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h11\\_writers.py',
    'PYMODULE'),
   ('h2',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\__init__.py',
    'PYMODULE'),
   ('h2.config',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\config.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\config.py',
    'PYMODULE'),
   ('h2.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\connection.py',
    'PYMODULE'),
   ('h2.errors',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\errors.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\errors.py',
    'PYMODULE'),
   ('h2.events',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\events.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\events.py',
    'PYMODULE'),
   ('h2.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\exceptions.py',
    'PYMODULE'),
   ('h2.frame_buffer',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\frame_buffer.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\frame_buffer.py',
    'PYMODULE'),
   ('h2.settings',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\settings.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\settings.py',
    'PYMODULE'),
   ('h2.stream',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\stream.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\stream.py',
    'PYMODULE'),
   ('h2.utilities',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\utilities.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\utilities.py',
    'PYMODULE'),
   ('h2.windows',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\h2\\windows.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\h2\\windows.py',
    'PYMODULE'),
   ('hashlib',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hashlib.py',
@@ -1179,36 +1186,36 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hmac.py',
    'PYMODULE'),
   ('hpack',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\__init__.py',
    'PYMODULE'),
   ('hpack.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\exceptions.py',
    'PYMODULE'),
   ('hpack.hpack',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\hpack.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\hpack.py',
    'PYMODULE'),
   ('hpack.huffman',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\huffman.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\huffman.py',
    'PYMODULE'),
   ('hpack.huffman_constants',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\huffman_constants.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\huffman_constants.py',
    'PYMODULE'),
   ('hpack.huffman_table',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\huffman_table.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\huffman_table.py',
    'PYMODULE'),
   ('hpack.struct',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\struct.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\struct.py',
    'PYMODULE'),
   ('hpack.table',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hpack\\table.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hpack\\table.py',
    'PYMODULE'),
   ('html',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\html\\__init__.py',
@@ -1232,264 +1239,264 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\http\\server.py',
    'PYMODULE'),
   ('httpcore',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\__init__.py',
    'PYMODULE'),
   ('httpcore._api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_api.py',
    'PYMODULE'),
   ('httpcore._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\__init__.py',
    'PYMODULE'),
   ('httpcore._async.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\connection.py',
    'PYMODULE'),
   ('httpcore._async.connection_pool',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._async.http11',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\http11.py',
    'PYMODULE'),
   ('httpcore._async.http2',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\http2.py',
    'PYMODULE'),
   ('httpcore._async.http_proxy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._async.interfaces',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\interfaces.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\interfaces.py',
    'PYMODULE'),
   ('httpcore._async.socks_proxy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_async\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._backends',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
    'PYMODULE'),
   ('httpcore._backends.anyio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\anyio.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\anyio.py',
    'PYMODULE'),
   ('httpcore._backends.auto',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\auto.py',
    'PYMODULE'),
   ('httpcore._backends.base',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\base.py',
    'PYMODULE'),
   ('httpcore._backends.mock',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\mock.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\mock.py',
    'PYMODULE'),
   ('httpcore._backends.sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\sync.py',
    'PYMODULE'),
   ('httpcore._backends.trio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_backends\\trio.py',
    'PYMODULE'),
   ('httpcore._exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_exceptions.py',
    'PYMODULE'),
   ('httpcore._models',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_models.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_models.py',
    'PYMODULE'),
   ('httpcore._ssl',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_ssl.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_ssl.py',
    'PYMODULE'),
   ('httpcore._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
    'PYMODULE'),
   ('httpcore._sync.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection.py',
    'PYMODULE'),
   ('httpcore._sync.connection_pool',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
    'PYMODULE'),
   ('httpcore._sync.http11',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\http11.py',
    'PYMODULE'),
   ('httpcore._sync.http2',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\http2.py',
    'PYMODULE'),
   ('httpcore._sync.http_proxy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
    'PYMODULE'),
   ('httpcore._sync.interfaces',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\interfaces.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\interfaces.py',
    'PYMODULE'),
   ('httpcore._sync.socks_proxy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_sync\\socks_proxy.py',
    'PYMODULE'),
   ('httpcore._synchronization',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_synchronization.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_synchronization.py',
    'PYMODULE'),
   ('httpcore._trace',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_trace.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_trace.py',
    'PYMODULE'),
   ('httpcore._utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpcore\\_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpcore\\_utils.py',
    'PYMODULE'),
   ('httpx',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\__init__.py',
    'PYMODULE'),
   ('httpx.__version__',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\__version__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\__version__.py',
    'PYMODULE'),
   ('httpx._api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_api.py',
    'PYMODULE'),
   ('httpx._auth',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_auth.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_auth.py',
    'PYMODULE'),
   ('httpx._client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_client.py',
    'PYMODULE'),
   ('httpx._compat',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_compat.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_compat.py',
    'PYMODULE'),
   ('httpx._config',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_config.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_config.py',
    'PYMODULE'),
   ('httpx._content',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_content.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_content.py',
    'PYMODULE'),
   ('httpx._decoders',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_decoders.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_decoders.py',
    'PYMODULE'),
   ('httpx._exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_exceptions.py',
    'PYMODULE'),
   ('httpx._main',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_main.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_main.py',
    'PYMODULE'),
   ('httpx._models',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_models.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_models.py',
    'PYMODULE'),
   ('httpx._multipart',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_multipart.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_multipart.py',
    'PYMODULE'),
   ('httpx._status_codes',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_status_codes.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_status_codes.py',
    'PYMODULE'),
   ('httpx._transports',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\__init__.py',
    'PYMODULE'),
   ('httpx._transports.asgi',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\asgi.py',
    'PYMODULE'),
   ('httpx._transports.base',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\base.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\base.py',
    'PYMODULE'),
   ('httpx._transports.default',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\default.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\default.py',
    'PYMODULE'),
   ('httpx._transports.mock',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\mock.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\mock.py',
    'PYMODULE'),
   ('httpx._transports.wsgi',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
    'PYMODULE'),
   ('httpx._types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_types.py',
    'PYMODULE'),
   ('httpx._urlparse',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_urlparse.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_urlparse.py',
    'PYMODULE'),
   ('httpx._urls',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_urls.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_urls.py',
    'PYMODULE'),
   ('httpx._utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\httpx\\_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\httpx\\_utils.py',
    'PYMODULE'),
   ('hyperframe',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hyperframe\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hyperframe\\__init__.py',
    'PYMODULE'),
   ('hyperframe.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hyperframe\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hyperframe\\exceptions.py',
    'PYMODULE'),
   ('hyperframe.flags',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hyperframe\\flags.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hyperframe\\flags.py',
    'PYMODULE'),
   ('hyperframe.frame',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\hyperframe\\frame.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\hyperframe\\frame.py',
    'PYMODULE'),
   ('idna',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\__init__.py',
    'PYMODULE'),
   ('idna.core',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\core.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\core.py',
    'PYMODULE'),
   ('idna.idnadata',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\idnadata.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\idnadata.py',
    'PYMODULE'),
   ('idna.intranges',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\intranges.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\intranges.py',
    'PYMODULE'),
   ('idna.package_data',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\package_data.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\package_data.py',
    'PYMODULE'),
   ('idna.uts46data',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\idna\\uts46data.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\idna\\uts46data.py',
    'PYMODULE'),
   ('imp',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\imp.py',
@@ -1711,68 +1718,68 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pickle.py',
    'PYMODULE'),
   ('pkg_resources',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.appdirs',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.__about__',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._compat',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._structures',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._typing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.requirements',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.tags',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
    'PYMODULE'),
   ('pkg_resources.extern',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
    'PYMODULE'),
   ('pkgutil',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pkgutil.py',
@@ -1784,68 +1791,68 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\plistlib.py',
    'PYMODULE'),
   ('postgrest',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\__init__.py',
    'PYMODULE'),
   ('postgrest._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_async\\__init__.py',
    'PYMODULE'),
   ('postgrest._async.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_async\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_async\\client.py',
    'PYMODULE'),
   ('postgrest._async.request_builder',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_async\\request_builder.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_async\\request_builder.py',
    'PYMODULE'),
   ('postgrest._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_sync\\__init__.py',
    'PYMODULE'),
   ('postgrest._sync.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_sync\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_sync\\client.py',
    'PYMODULE'),
   ('postgrest._sync.request_builder',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\_sync\\request_builder.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\_sync\\request_builder.py',
    'PYMODULE'),
   ('postgrest.base_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\base_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\base_client.py',
    'PYMODULE'),
   ('postgrest.base_request_builder',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\base_request_builder.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\base_request_builder.py',
    'PYMODULE'),
   ('postgrest.constants',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\constants.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\constants.py',
    'PYMODULE'),
   ('postgrest.deprecated_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\deprecated_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\deprecated_client.py',
    'PYMODULE'),
   ('postgrest.deprecated_get_request_builder',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\deprecated_get_request_builder.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\deprecated_get_request_builder.py',
    'PYMODULE'),
   ('postgrest.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\exceptions.py',
    'PYMODULE'),
   ('postgrest.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\types.py',
    'PYMODULE'),
   ('postgrest.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\utils.py',
    'PYMODULE'),
   ('postgrest.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\postgrest\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\postgrest\\version.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pprint.py',
@@ -1854,244 +1861,244 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\py_compile.py',
    'PYMODULE'),
   ('pydantic',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\__init__.py',
    'PYMODULE'),
   ('pydantic._internal',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\__init__.py',
    'PYMODULE'),
   ('pydantic._internal._config',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_config.py',
    'PYMODULE'),
   ('pydantic._internal._core_metadata',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
    'PYMODULE'),
   ('pydantic._internal._core_utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
    'PYMODULE'),
   ('pydantic._internal._dataclasses',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
    'PYMODULE'),
   ('pydantic._internal._decorators',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_decorators.py',
    'PYMODULE'),
   ('pydantic._internal._decorators_v1',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
    'PYMODULE'),
   ('pydantic._internal._discriminated_union',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
    'PYMODULE'),
   ('pydantic._internal._docs_extraction',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
    'PYMODULE'),
   ('pydantic._internal._fields',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_fields.py',
    'PYMODULE'),
   ('pydantic._internal._forward_ref',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
    'PYMODULE'),
   ('pydantic._internal._generate_schema',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
    'PYMODULE'),
   ('pydantic._internal._generics',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_generics.py',
    'PYMODULE'),
   ('pydantic._internal._git',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_git.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_git.py',
    'PYMODULE'),
   ('pydantic._internal._import_utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
    'PYMODULE'),
   ('pydantic._internal._internal_dataclass',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_internal_dataclass.py',
    'PYMODULE'),
   ('pydantic._internal._known_annotated_metadata',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
    'PYMODULE'),
   ('pydantic._internal._mock_val_ser',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
    'PYMODULE'),
   ('pydantic._internal._model_construction',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
    'PYMODULE'),
   ('pydantic._internal._repr',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_repr.py',
    'PYMODULE'),
   ('pydantic._internal._schema_generation_shared',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
    'PYMODULE'),
   ('pydantic._internal._serializers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_serializers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_serializers.py',
    'PYMODULE'),
   ('pydantic._internal._signature',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_signature.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_signature.py',
    'PYMODULE'),
   ('pydantic._internal._std_types_schema',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_std_types_schema.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_std_types_schema.py',
    'PYMODULE'),
   ('pydantic._internal._typing_extra',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
    'PYMODULE'),
   ('pydantic._internal._utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_utils.py',
    'PYMODULE'),
   ('pydantic._internal._validate_call',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
    'PYMODULE'),
   ('pydantic._internal._validators',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_internal\\_validators.py',
    'PYMODULE'),
   ('pydantic._migration',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\_migration.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\_migration.py',
    'PYMODULE'),
   ('pydantic.aliases',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\aliases.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\aliases.py',
    'PYMODULE'),
   ('pydantic.annotated_handlers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\annotated_handlers.py',
    'PYMODULE'),
   ('pydantic.color',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\color.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\color.py',
    'PYMODULE'),
   ('pydantic.config',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\config.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\config.py',
    'PYMODULE'),
   ('pydantic.dataclasses',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\dataclasses.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\dataclasses.py',
    'PYMODULE'),
   ('pydantic.deprecated',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\__init__.py',
    'PYMODULE'),
   ('pydantic.deprecated.class_validators',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
    'PYMODULE'),
   ('pydantic.deprecated.config',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\config.py',
    'PYMODULE'),
   ('pydantic.deprecated.copy_internals',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
    'PYMODULE'),
   ('pydantic.deprecated.json',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\json.py',
    'PYMODULE'),
   ('pydantic.deprecated.parse',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\parse.py',
    'PYMODULE'),
   ('pydantic.deprecated.tools',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\deprecated\\tools.py',
    'PYMODULE'),
   ('pydantic.errors',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\errors.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\errors.py',
    'PYMODULE'),
   ('pydantic.fields',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\fields.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\fields.py',
    'PYMODULE'),
   ('pydantic.functional_serializers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\functional_serializers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\functional_serializers.py',
    'PYMODULE'),
   ('pydantic.functional_validators',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\functional_validators.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\functional_validators.py',
    'PYMODULE'),
   ('pydantic.json_schema',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\json_schema.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\json_schema.py',
    'PYMODULE'),
   ('pydantic.main',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\main.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\main.py',
    'PYMODULE'),
   ('pydantic.networks',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\networks.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\networks.py',
    'PYMODULE'),
   ('pydantic.plugin',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\plugin\\__init__.py',
    'PYMODULE'),
   ('pydantic.plugin._loader',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\plugin\\_loader.py',
    'PYMODULE'),
   ('pydantic.plugin._schema_validator',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
    'PYMODULE'),
   ('pydantic.root_model',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\root_model.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\root_model.py',
    'PYMODULE'),
   ('pydantic.type_adapter',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\type_adapter.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\type_adapter.py',
    'PYMODULE'),
   ('pydantic.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\types.py',
    'PYMODULE'),
   ('pydantic.validate_call_decorator',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\validate_call_decorator.py',
    'PYMODULE'),
   ('pydantic.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\version.py',
    'PYMODULE'),
   ('pydantic.warnings',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic\\warnings.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic\\warnings.py',
    'PYMODULE'),
   ('pydantic_core',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic_core\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic_core\\__init__.py',
    'PYMODULE'),
   ('pydantic_core.core_schema',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\pydantic_core\\core_schema.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\pydantic_core\\core_schema.py',
    'PYMODULE'),
   ('pydoc',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pydoc.py',
@@ -2112,136 +2119,136 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py',
    'PYMODULE'),
   ('realtime',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\__init__.py',
    'PYMODULE'),
   ('realtime._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\__init__.py',
    'PYMODULE'),
   ('realtime._async.channel',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\channel.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\channel.py',
    'PYMODULE'),
   ('realtime._async.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\client.py',
    'PYMODULE'),
   ('realtime._async.presence',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\presence.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\presence.py',
    'PYMODULE'),
   ('realtime._async.push',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\push.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\push.py',
    'PYMODULE'),
   ('realtime._async.timer',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_async\\timer.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_async\\timer.py',
    'PYMODULE'),
   ('realtime._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_sync\\__init__.py',
    'PYMODULE'),
   ('realtime._sync.channel',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_sync\\channel.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_sync\\channel.py',
    'PYMODULE'),
   ('realtime._sync.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_sync\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_sync\\client.py',
    'PYMODULE'),
   ('realtime._sync.presence',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\_sync\\presence.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\_sync\\presence.py',
    'PYMODULE'),
   ('realtime.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\exceptions.py',
    'PYMODULE'),
   ('realtime.message',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\message.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\message.py',
    'PYMODULE'),
   ('realtime.transformers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\transformers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\transformers.py',
    'PYMODULE'),
   ('realtime.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\types.py',
    'PYMODULE'),
   ('realtime.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\realtime\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\realtime\\version.py',
    'PYMODULE'),
   ('requests',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\__init__.py',
    'PYMODULE'),
   ('requests.__version__',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\__version__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\__version__.py',
    'PYMODULE'),
   ('requests._internal_utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\_internal_utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\_internal_utils.py',
    'PYMODULE'),
   ('requests.adapters',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\adapters.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\adapters.py',
    'PYMODULE'),
   ('requests.api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\api.py',
    'PYMODULE'),
   ('requests.auth',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\auth.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\auth.py',
    'PYMODULE'),
   ('requests.certs',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\certs.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\certs.py',
    'PYMODULE'),
   ('requests.compat',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\compat.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\compat.py',
    'PYMODULE'),
   ('requests.cookies',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\cookies.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\cookies.py',
    'PYMODULE'),
   ('requests.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\exceptions.py',
    'PYMODULE'),
   ('requests.hooks',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\hooks.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\hooks.py',
    'PYMODULE'),
   ('requests.models',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\models.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\models.py',
    'PYMODULE'),
   ('requests.packages',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\packages.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\packages.py',
    'PYMODULE'),
   ('requests.sessions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\sessions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\sessions.py',
    'PYMODULE'),
   ('requests.status_codes',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\status_codes.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\status_codes.py',
    'PYMODULE'),
   ('requests.structures',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\structures.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\structures.py',
    'PYMODULE'),
   ('requests.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\requests\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\requests\\utils.py',
    'PYMODULE'),
   ('runpy',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\runpy.py',
@@ -2262,20 +2269,20 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\signal.py',
    'PYMODULE'),
   ('six',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\six.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\six.py',
    'PYMODULE'),
   ('sniffio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\sniffio\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\sniffio\\__init__.py',
    'PYMODULE'),
   ('sniffio._impl',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\sniffio\\_impl.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\sniffio\\_impl.py',
    'PYMODULE'),
   ('sniffio._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\sniffio\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\sniffio\\_version.py',
    'PYMODULE'),
   ('socket',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socket.py',
@@ -2290,68 +2297,68 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\statistics.py',
    'PYMODULE'),
   ('storage3',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\__init__.py',
    'PYMODULE'),
   ('storage3._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_async\\__init__.py',
    'PYMODULE'),
   ('storage3._async.bucket',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_async\\bucket.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_async\\bucket.py',
    'PYMODULE'),
   ('storage3._async.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_async\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_async\\client.py',
    'PYMODULE'),
   ('storage3._async.file_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_async\\file_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_async\\file_api.py',
    'PYMODULE'),
   ('storage3._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_sync\\__init__.py',
    'PYMODULE'),
   ('storage3._sync.bucket',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_sync\\bucket.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_sync\\bucket.py',
    'PYMODULE'),
   ('storage3._sync.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_sync\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_sync\\client.py',
    'PYMODULE'),
   ('storage3._sync.file_api',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\_sync\\file_api.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\_sync\\file_api.py',
    'PYMODULE'),
   ('storage3.constants',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\constants.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\constants.py',
    'PYMODULE'),
   ('storage3.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\types.py',
    'PYMODULE'),
   ('storage3.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\utils.py',
    'PYMODULE'),
   ('storage3.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\storage3\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\storage3\\version.py',
    'PYMODULE'),
   ('strenum',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\strenum\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\strenum\\__init__.py',
    'PYMODULE'),
   ('strenum._name_mangler',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\strenum\\_name_mangler.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\strenum\\_name_mangler.py',
    'PYMODULE'),
   ('strenum._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\strenum\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\strenum\\_version.py',
    'PYMODULE'),
   ('string',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\string.py',
@@ -2363,80 +2370,80 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py',
    'PYMODULE'),
   ('supabase',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\__init__.py',
    'PYMODULE'),
   ('supabase._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_async\\__init__.py',
    'PYMODULE'),
   ('supabase._async.auth_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_async\\auth_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_async\\auth_client.py',
    'PYMODULE'),
   ('supabase._async.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_async\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_async\\client.py',
    'PYMODULE'),
   ('supabase._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_sync\\__init__.py',
    'PYMODULE'),
   ('supabase._sync.auth_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_sync\\auth_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_sync\\auth_client.py',
    'PYMODULE'),
   ('supabase._sync.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\_sync\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\_sync\\client.py',
    'PYMODULE'),
   ('supabase.lib',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\lib\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\lib\\__init__.py',
    'PYMODULE'),
   ('supabase.lib.client_options',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\lib\\client_options.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\lib\\client_options.py',
    'PYMODULE'),
   ('supabase.types',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\types.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\types.py',
    'PYMODULE'),
   ('supabase.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supabase\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supabase\\version.py',
    'PYMODULE'),
   ('supafunc',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\__init__.py',
    'PYMODULE'),
   ('supafunc._async',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\_async\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\_async\\__init__.py',
    'PYMODULE'),
   ('supafunc._async.functions_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\_async\\functions_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\_async\\functions_client.py',
    'PYMODULE'),
   ('supafunc._sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\_sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\_sync\\__init__.py',
    'PYMODULE'),
   ('supafunc._sync.functions_client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\_sync\\functions_client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\_sync\\functions_client.py',
    'PYMODULE'),
   ('supafunc.errors',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\errors.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\errors.py',
    'PYMODULE'),
   ('supafunc.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\utils.py',
    'PYMODULE'),
   ('supafunc.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\supafunc\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\supafunc\\version.py',
    'PYMODULE'),
   ('sysconfig',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sysconfig.py',
@@ -2490,8 +2497,8 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\typing.py',
    'PYMODULE'),
   ('typing_extensions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\typing_extensions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\typing_extensions.py',
    'PYMODULE'),
   ('urllib',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py',
@@ -2509,148 +2516,148 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\response.py',
    'PYMODULE'),
   ('urllib3',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\__init__.py',
    'PYMODULE'),
   ('urllib3._base_connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\_base_connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\_base_connection.py',
    'PYMODULE'),
   ('urllib3._collections',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\_collections.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\_collections.py',
    'PYMODULE'),
   ('urllib3._request_methods',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\_request_methods.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\_request_methods.py',
    'PYMODULE'),
   ('urllib3._version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\_version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\_version.py',
    'PYMODULE'),
   ('urllib3.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\connection.py',
    'PYMODULE'),
   ('urllib3.connectionpool',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\connectionpool.py',
    'PYMODULE'),
   ('urllib3.contrib',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.fetch',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.request',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
    'PYMODULE'),
   ('urllib3.contrib.emscripten.response',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
    'PYMODULE'),
   ('urllib3.contrib.pyopenssl',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
    'PYMODULE'),
   ('urllib3.contrib.socks',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\contrib\\socks.py',
    'PYMODULE'),
   ('urllib3.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\exceptions.py',
    'PYMODULE'),
   ('urllib3.fields',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\fields.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\fields.py',
    'PYMODULE'),
   ('urllib3.filepost',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\filepost.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\filepost.py',
    'PYMODULE'),
   ('urllib3.http2',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\http2\\__init__.py',
    'PYMODULE'),
   ('urllib3.http2.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\http2\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\http2\\connection.py',
    'PYMODULE'),
   ('urllib3.http2.probe',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\http2\\probe.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\http2\\probe.py',
    'PYMODULE'),
   ('urllib3.poolmanager',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\poolmanager.py',
    'PYMODULE'),
   ('urllib3.response',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\response.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\response.py',
    'PYMODULE'),
   ('urllib3.util',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\__init__.py',
    'PYMODULE'),
   ('urllib3.util.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\connection.py',
    'PYMODULE'),
   ('urllib3.util.proxy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\proxy.py',
    'PYMODULE'),
   ('urllib3.util.request',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\request.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\request.py',
    'PYMODULE'),
   ('urllib3.util.response',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\response.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\response.py',
    'PYMODULE'),
   ('urllib3.util.retry',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\retry.py',
    'PYMODULE'),
   ('urllib3.util.ssl_',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_.py',
    'PYMODULE'),
   ('urllib3.util.ssl_match_hostname',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
    'PYMODULE'),
   ('urllib3.util.ssltransport',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
    'PYMODULE'),
   ('urllib3.util.timeout',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\timeout.py',
    'PYMODULE'),
   ('urllib3.util.url',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\url.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\url.py',
    'PYMODULE'),
   ('urllib3.util.util',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\util.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\util.py',
    'PYMODULE'),
   ('urllib3.util.wait',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\urllib3\\util\\wait.py',
    'PYMODULE'),
   ('uu',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uu.py',
@@ -2662,180 +2669,180 @@
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\webbrowser.py',
    'PYMODULE'),
   ('websockets',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\__init__.py',
    'PYMODULE'),
   ('websockets.__main__',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\__main__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\__main__.py',
    'PYMODULE'),
   ('websockets.asyncio',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\__init__.py',
    'PYMODULE'),
   ('websockets.asyncio.async_timeout',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\async_timeout.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\async_timeout.py',
    'PYMODULE'),
   ('websockets.asyncio.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\client.py',
    'PYMODULE'),
   ('websockets.asyncio.compatibility',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\compatibility.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\compatibility.py',
    'PYMODULE'),
   ('websockets.asyncio.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\connection.py',
    'PYMODULE'),
   ('websockets.asyncio.messages',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\messages.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\messages.py',
    'PYMODULE'),
   ('websockets.asyncio.server',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\asyncio\\server.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\asyncio\\server.py',
    'PYMODULE'),
   ('websockets.auth',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\auth.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\auth.py',
    'PYMODULE'),
   ('websockets.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\client.py',
    'PYMODULE'),
   ('websockets.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\connection.py',
    'PYMODULE'),
   ('websockets.datastructures',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\datastructures.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\datastructures.py',
    'PYMODULE'),
   ('websockets.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\exceptions.py',
    'PYMODULE'),
   ('websockets.extensions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\extensions\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\extensions\\__init__.py',
    'PYMODULE'),
   ('websockets.extensions.base',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\extensions\\base.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\extensions\\base.py',
    'PYMODULE'),
   ('websockets.extensions.permessage_deflate',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\extensions\\permessage_deflate.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\extensions\\permessage_deflate.py',
    'PYMODULE'),
   ('websockets.frames',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\frames.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\frames.py',
    'PYMODULE'),
   ('websockets.headers',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\headers.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\headers.py',
    'PYMODULE'),
   ('websockets.http',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\http.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\http.py',
    'PYMODULE'),
   ('websockets.http11',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\http11.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\http11.py',
    'PYMODULE'),
   ('websockets.imports',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\imports.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\imports.py',
    'PYMODULE'),
   ('websockets.legacy',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\__init__.py',
    'PYMODULE'),
   ('websockets.legacy.auth',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\auth.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\auth.py',
    'PYMODULE'),
   ('websockets.legacy.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\client.py',
    'PYMODULE'),
   ('websockets.legacy.exceptions',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\exceptions.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\exceptions.py',
    'PYMODULE'),
   ('websockets.legacy.framing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\framing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\framing.py',
    'PYMODULE'),
   ('websockets.legacy.handshake',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\handshake.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\handshake.py',
    'PYMODULE'),
   ('websockets.legacy.http',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\http.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\http.py',
    'PYMODULE'),
   ('websockets.legacy.protocol',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\protocol.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\protocol.py',
    'PYMODULE'),
   ('websockets.legacy.server',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\legacy\\server.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\legacy\\server.py',
    'PYMODULE'),
   ('websockets.protocol',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\protocol.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\protocol.py',
    'PYMODULE'),
   ('websockets.server',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\server.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\server.py',
    'PYMODULE'),
   ('websockets.streams',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\streams.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\streams.py',
    'PYMODULE'),
   ('websockets.sync',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\__init__.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\__init__.py',
    'PYMODULE'),
   ('websockets.sync.client',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\client.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\client.py',
    'PYMODULE'),
   ('websockets.sync.connection',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\connection.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\connection.py',
    'PYMODULE'),
   ('websockets.sync.messages',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\messages.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\messages.py',
    'PYMODULE'),
   ('websockets.sync.server',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\server.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\server.py',
    'PYMODULE'),
   ('websockets.sync.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\sync\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\sync\\utils.py',
    'PYMODULE'),
   ('websockets.typing',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\typing.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\typing.py',
    'PYMODULE'),
   ('websockets.uri',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\uri.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\uri.py',
    'PYMODULE'),
   ('websockets.utils',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\utils.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\utils.py',
    'PYMODULE'),
   ('websockets.version',
-   'd:\\HUST\\20241\\IT3150 - Project 1\\Project Da '
-   'Cap\\.venv\\lib\\site-packages\\websockets\\version.py',
+   'D:\\HUST\\20241\\IT3150 - Project '
+   '1\\Repo\\MLM-Management-App\\.venv\\lib\\site-packages\\websockets\\version.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python310\\lib\\xml\\__init__.py',
